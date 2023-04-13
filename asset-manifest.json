@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory/static/css/main.46497a0f.css",
+    "main.js": "/memory/static/js/main.0f41fc6d.js",
+    "static/media/boruto.png": "/memory/static/media/boruto.c8eb3380e6e06720b5b7.png",
+    "static/media/sasuke.png": "/memory/static/media/sasuke.d2d8646eb5ab4fde0c04.png",
+    "static/media/hinata.png": "/memory/static/media/hinata.bc23d9e950a33bf5e3f1.png",
+    "static/media/sakura.png": "/memory/static/media/sakura.8fcac05fd5bb0e2c3e64.png",
+    "static/media/pain.png": "/memory/static/media/pain.dc2486db8b91460fb844.png",
+    "static/media/jiraiya.png": "/memory/static/media/jiraiya.961936434b6e10706c0d.png",
+    "static/media/naruto.png": "/memory/static/media/naruto.3bedeaf2030f1acd0e40.png",
+    "static/media/yamato.png": "/memory/static/media/yamato.d10b030c9aa625a74e61.png",
+    "static/media/itachi.png": "/memory/static/media/itachi.49fdedea22a0c16da22d.png",
+    "index.html": "/memory/index.html",
+    "main.46497a0f.css.map": "/memory/static/css/main.46497a0f.css.map",
+    "main.0f41fc6d.js.map": "/memory/static/js/main.0f41fc6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46497a0f.css",
+    "static/js/main.0f41fc6d.js"
+  ]
+}
